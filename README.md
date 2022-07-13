@@ -2,7 +2,7 @@
 
 hohno's STL file colletion 
 
-    mZone--STLcolletion
+    ./mZone--STLcolletion
      ├── GitHubSkyline
      │   ├── hohno-46466-2020.stl
      │   └── hohno-46466-2021.stl
