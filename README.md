@@ -12,8 +12,8 @@ hohno's STL file colletion
      
      1 directory, 5 files (Wed Jul 20 05:56:27 JST 2022)
 
-Note: url = https://github.com/hohno-46466/mZone--STLcolletion
+Note: URL = https://github.com/hohno-46466/mZone--STLcolletion
 
-Note: url = git@github.com:hohno-46466/mZone--STLcolletion.git
+Note: URL = git@github.com:hohno-46466/mZone--STLcolletion.git
 
 -EOF-
